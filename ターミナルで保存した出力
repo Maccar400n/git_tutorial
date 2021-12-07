@@ -1,0 +1,47 @@
+Last login: Sun Dec  5 14:58:06 on ttys000
+(base) hiroki@hironorinoMacBook-Air ~ % cd ~/Documents/udemy_code/git_tutorial
+(base) hiroki@hironorinoMacBook-Air git_tutorial % git commit
+hint: Waiting for your editor to close the file... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: 蒔苗宏紀 <hiroki@hironorinoMacBook-Air.local>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   index.html
+#
+# Untracked files:
+#       "\343\202\277\343\203\274\343\203\237\343\203\212\343\203\253\343\201\247\344\277\235\345\255\230\343\201\227\343\201\237\345\207\272\345\212\233"
+#
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
